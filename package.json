@@ -1,0 +1,21 @@
+{
+  "name": "movieBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.2",
+    "moviebot": "file:movieBot",
+    "request": "^2.88.2",
+    "xregexp": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
